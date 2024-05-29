@@ -1,4 +1,4 @@
-# MedBot
+# Medical Chatbot: MedBot
 MedBot is an innovative healthcare chatbot project that leverages large Language Models along with Retrieval-Augmented Generation (RAG) from trusted databases created from PubMed datasets to facilitate seamless and intuitive communication in the realm of medical assistance. Designed to enhance the interaction between users and healthcare information, MedBot offers immediate responses to inquiries related to health, wellness, and medical queries. This intelligent chatbot employs RAG, natural language processing, and understanding to provide accurate and personalized responses, making it a reliable companion for individuals seeking information on symptoms, medications, and general healthcare advice. MedBot aims to bridge the gap between users and healthcare knowledge, offering a convenient and accessible platform for health-related conversations.
 
 ## Project Overview
